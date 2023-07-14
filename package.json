@@ -1,6 +1,7 @@
 {
   "name": "action-menu",
   "version": "0.1.0",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@primer/react": "^35.26.0",
